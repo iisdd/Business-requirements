@@ -28,17 +28,18 @@
 - 车源出价车商数：0
 - 最高出价深度：1.86%，查不到市场价&模型价的车
 分布：
-<img src="./pic/gailan1.png" alt="概览1" width="500" />
-<img src="./pic/gailan2.png" alt="概览2" width="500" />
+<img src="./pic/gailan1.png" alt="概览1" width="500" /> <img src="./pic/gailan2.png" alt="概览2" width="500" />
 
 
 ## 策略规则
 _图中任意数字都可配置_
 
 对照组：
+
 <img src="./pic/duizhao.png" alt="对照组" width="500" />
 
 实验组：
+
 <img src="./pic/shiyan.png" alt="实验组" width="500" />
 
 1212拍场规模阈值更新
